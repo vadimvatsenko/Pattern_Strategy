@@ -9,12 +9,13 @@ public class YellowCar : Car
     {
         base.Start();
         _model = "YellowCar";
-        _movable = new AcceleratedSpeed(_acceleration = 0.01f);
-        _speed = 0.001f;
+        _movable = new AcceleratedSpeed(_acceleration = 1.5f);
+        _speed = 1f;
     }
 
     public virtual void Update()
     {
         _movable.Move(_rb, _finish, _speed);
+        
     }
 }
