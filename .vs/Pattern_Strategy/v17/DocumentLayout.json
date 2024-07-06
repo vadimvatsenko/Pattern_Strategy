@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\assets\\scripts\\acceleratedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\acceleratedspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|p:\\projects and documents\\unity project\\pattern_strategy\\assets\\scripts\\yellowcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\yellowcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\assets\\scripts\\redcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\redcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\assets\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\assets\\scripts\\evenspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\evenspeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\assets\\scripts\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C2083C-7624-E1FE-E87F-BFCC8D2F23B5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EvenSpeed.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\EvenSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EvenSpeed.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\EvenSpeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EvenSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:52:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YellowCar.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\YellowCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\YellowCar.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\YellowCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\YellowCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:42:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedCar.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\RedCar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RedCar.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\RedCar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RedCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:45:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\Car.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Car.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\Car.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:40:23.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcceleratedSpeed.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\AcceleratedSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AcceleratedSpeed.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\AcceleratedSpeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AcceleratedSpeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:38:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\IMovable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IMovable.cs",
+              "ToolTip": "P:\\Projects and Documents\\Unity Project\\Pattern_Strategy\\Assets\\Scripts\\IMovable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:23:06.202Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
