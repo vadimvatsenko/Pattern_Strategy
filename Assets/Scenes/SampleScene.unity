@@ -183,6 +183,24 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c28df4d997a3a254c86b8f058425e00a, type: 3}
+--- !u!1 &107680457 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+  m_PrefabInstance: {fileID: 1585882334}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &107680458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107680457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 988af60eb12551345bf8da412496e9c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _finish: {x: 4, y: 0, z: 170}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -369,24 +387,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2061743445}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1201127002 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3294564219125457607, guid: d059087f36f75e7439afc309ce1038fc, type: 3}
-  m_PrefabInstance: {fileID: 1386059337}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1201127003
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1201127002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d81ff467b75b4d24f92d8ae65a128711, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _finish: {x: -4, y: 0, z: 170}
 --- !u!1001 &1386059337
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -439,38 +439,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: Red Car
       objectReference: {fileID: 0}
-    - target: {fileID: 3294564219125457607, guid: d059087f36f75e7439afc309ce1038fc, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3294564219125457607, guid: d059087f36f75e7439afc309ce1038fc, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1201127003}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d059087f36f75e7439afc309ce1038fc, type: 3}
---- !u!1 &1448792085 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1248598967819147742, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
-  m_PrefabInstance: {fileID: 1469851172}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1448792086
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1448792085}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 988af60eb12551345bf8da412496e9c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _finish: {x: 4, y: 0, z: 170}
-  _acceleration: 0
---- !u!1001 &1469851172
+--- !u!1001 &1585882334
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -478,62 +452,58 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1248598967819147742, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
-      propertyPath: m_Name
-      value: Yellow Car
-      objectReference: {fileID: 0}
-    - target: {fileID: 1248598967819147742, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalPosition.z
       value: -35
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1880317207959290724, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - target: {fileID: 2792218741957914664, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
+      propertyPath: m_Name
+      value: Yellow Car
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 1248598967819147742, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+    - targetCorrespondingSourceObject: {fileID: 3311311803080157842, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1448792086}
-  m_SourcePrefab: {fileID: 100100000, guid: d59bee472f2e16c4aa5fd8db61106931, type: 3}
+      addedObject: {fileID: 107680458}
+  m_SourcePrefab: {fileID: 100100000, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
 --- !u!1 &2061743444
 GameObject:
   m_ObjectHideFlags: 0
@@ -573,5 +543,5 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 104100600}
   - {fileID: 1386059337}
-  - {fileID: 1469851172}
   - {fileID: 2061743445}
+  - {fileID: 1585882334}

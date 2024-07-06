@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2544
     height: 1341
   m_ShowMode: 4
-  m_Title: Console
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 321}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 125
+  controlID: 137
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 19
+  controlID: 46
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 126
+  controlID: 138
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -321,8 +321,8 @@ MonoBehaviour:
     y: 0
     width: 597
     height: 860
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -475,9 +475,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: b6590000
-      m_LastClickedID: 22966
-      m_ExpandedIDs: 30fbffffbc590000
+      m_SelectedIDs: c80c0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4a5b0000
-    m_LastClickedID: 23370
-    m_ExpandedIDs: 00000000225b0000245b0000265b0000285b000000ca9a3b
+    m_SelectedIDs: 0c5b0000
+    m_LastClickedID: 23308
+    m_ExpandedIDs: 00000000e45a0000e65a0000e85a0000ea5a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -591,7 +591,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000225b0000245b0000265b0000285b0000
+    m_ExpandedIDs: 00000000e45a0000e65a0000e85a0000ea5a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1042,9 +1042,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.3608596, y: -0.80952644, z: 178.51553}
+    m_Target: {x: -140.56136, y: 1.1085726, z: 82.436775}
     speed: 2
-    m_Value: {x: -3.3608596, y: -0.80952644, z: 178.51553}
+    m_Value: {x: -140.56136, y: 1.1085726, z: 82.436775}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1090,13 +1090,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.26847523, y: 0.0034646282, z: -0.000965998, w: -0.9632852}
+    m_Target: {x: -0.26988113, y: -0.016756646, z: 0.004696843, w: -0.9627432}
     speed: 2
-    m_Value: {x: -0.26847386, y: 0.0034646105, z: -0.00096599304, w: -0.96328026}
+    m_Value: {x: -0.26988113, y: -0.016756646, z: 0.004696843, w: -0.9627432}
   m_Size:
-    m_Target: 242.76103
+    m_Target: 138.55594
     speed: 2
-    m_Value: 242.76103
+    m_Value: 138.55594
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1255,8 +1255,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -1269,18 +1269,18 @@ MonoBehaviour:
       y: 21
       width: 1322
       height: 691
-    m_Scale: {x: 0.6398148, y: 0.6398148}
-    m_Translation: {x: 661, y: 345.5}
+    m_Scale: {x: 0.7188216, y: 0.7188216}
+    m_Translation: {x: 660.67645, y: 325.28198}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1033.1115
-      y: -540
-      width: 2066.223
-      height: 1080
+      x: -919.1105
+      y: -452.52118
+      width: 1839.1212
+      height: 961.29553
     m_MinimalGUI: 1
   m_defaultScale: 0.6398148
   m_LastWindowPixelSize: {x: 1322, y: 712}

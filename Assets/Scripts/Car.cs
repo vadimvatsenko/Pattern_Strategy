@@ -13,7 +13,7 @@ public class Car : MonoBehaviour
     public virtual void Start()
     {
         _rb = GetComponent<Rigidbody>();
-        _speed = 30f;
+        _speed = 10f;
     }
     
 }

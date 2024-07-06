@@ -10,6 +10,7 @@ public class RedCar : Car
         base.Start();
         _model = "RedCar";
         _movable = new EvenSpeed();
+        _speed = 30f;
     }
 
     private void Update()

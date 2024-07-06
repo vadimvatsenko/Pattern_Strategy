@@ -4,18 +4,17 @@ using UnityEngine;
 
 public class YellowCar : Car
 {
-    public float _acceleration;
-    public virtual void Start()
+    private float _acceleration;
+    public override void Start()
     {
+        base.Start();
         _model = "YellowCar";
-        _movable = new AcceleratedSpeed();
-        _acceleration = 5f;
-        _speed = 0f;
+        _movable = new AcceleratedSpeed(_acceleration = 0.01f);
+        _speed = 0.001f;
     }
 
     public virtual void Update()
     {
-        _model += _acceleration;
         _movable.Move(_rb, _finish, _speed);
     }
 }
